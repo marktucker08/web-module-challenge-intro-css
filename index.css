@@ -24,3 +24,36 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
+* {
+    font-family: Roboto Mono;
+}
+
+header {
+    color: white;
+}
+
+.visitnav {
+    background-color: #FF764E;
+}
+
+.learnnav {
+    background-color: #5ED3EB;
+}
+
+.involvednav {
+    background-color: #FFCD69;
+}
+
+h1 {
+    font-family: Chelsea Market;
+}
+
+#learn {
+    color: white;
+    background-color: #DDB9A3;
+}
+
+footer {
+    color: white;
+    background-color: #F9E7DC;
+}
